@@ -1,0 +1,4 @@
+notifications
+columns - title,message
+
+add/edit/list

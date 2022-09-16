@@ -1,0 +1,11 @@
+{
+    "name": "rashmi/firebase",
+    "autoload": {
+        "psr-4": {
+            "Rashmi\\Firebase\\": "src/"
+        }
+    },
+    "require": {
+        "kreait/firebase-php": "^6.8"
+    }
+}
